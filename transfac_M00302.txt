@@ -1,0 +1,45 @@
+AC   M00302
+XX
+ID   V$NFAT_Q6
+XX
+DT   07.11.1998 (created); ewi.
+DT   11.03.2003 (updated); dtc.
+CO   Copyright (C), Biobase GmbH.
+XX
+NA   NF-AT
+XX
+DE   Nuclear factor of activated T-cells
+XX
+BF   T00549 NF-AT; Species: mouse, Mus musculus.
+BF   T00550 NF-AT1; Species: human, Homo sapiens.
+BF   T01944 NF-AT1; Species: mouse, Mus musculus.
+BF   T01948 NF-AT1; Species: human, Homo sapiens.
+BF   T01945 NF-AT2; Species: human, Homo sapiens.
+BF   T01947 NF-AT2; Species: mouse, Mus musculus.
+BF   T02462 NF-AT3; Species: human, Homo sapiens.
+BF   T01946 NF-AT4; Species: human, Homo sapiens.
+BF   T01949 NF-AT4; Species: mouse, Mus musculus.
+XX
+PO      A      C      G      T
+01      6     11      2      7      N
+02     13      4      5      4      A
+03      5      5      8      8      N
+04     12      1      2     11      W
+05      2      0     23      1      G
+06      0      0     26      0      G
+07     26      0      0      0      A
+08     25      0      1      0      A
+09     25      1      0      0      A
+10     15      5      2      4      A
+11      9      6      2      9      N
+12      5      6      6      9      N
+XX
+BA   26 compiled genomic NF-ATp/c binding sites
+XX
+RN   [1]; RE0016525.
+RX   PUBMED: 10329147.
+RA   Kel A., Kel-Margoulis O., Babenko V., Wingender E.
+RT   Recognition of NFATp/AP-1 composite elements within genes induced upon the activation of immune cells
+RL   J. Mol. Biol. 288:353-376 (1999).
+XX
+/
